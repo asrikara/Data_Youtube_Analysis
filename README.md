@@ -14,5 +14,14 @@ The goals of the project include:
 
 ## Data
 
+This project focused on the top 8 data science and data analytical channels on Youtube. Since this information is changing daily it was difficult to find a data set online that contained the information that I was looking for, so as a result the Youtube API was used instead. 
+
+### Limitations
+
+There are still limitations that come with using the Google Youtube Data API as there is a limit of 10,000 tokens per day. I also only looked the most popular youtube channels in English which would exclude a lot of channels that might be more popular in other languages. 
+
+## Conclusions and Insights
+
+
 
 
